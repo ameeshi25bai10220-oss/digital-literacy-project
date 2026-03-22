@@ -1,13 +1,13 @@
 # Digital Literacy Project
 
 **Name:** Ameeshi Khare  
-**Registration Number:** 25BAI10220 
-**Branch:** AIML
-**Course:** CSE0001 – Digital Literacy  
+**Registration Number:** 25BAI10220  
+**Branch:** AIML  
+**Course:** CSE0001 – Digital Literacy   
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 This project was completed as part of the Digital Literacy course. It focuses on building awareness about essential digital skills such as online safety, professional communication, and responsible use of digital platforms.
 
@@ -15,7 +15,7 @@ The project is divided into five tasks, each covering a different aspect of digi
 
 ---
 
-## 📂 Tasks Summary
+## Tasks Summary
 
 ### Task 1 – Digital Literacy Infographic
 Created an infographic explaining digital literacy, safe internet practices, and professional communication using Canva.
@@ -36,7 +36,7 @@ Developed a case study on UPI fraud and created a prevention checklist for onlin
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 - task-1-presentation/
 - task-2-portfolio/
@@ -47,6 +47,6 @@ Developed a case study on UPI fraud and created a prevention checklist for onlin
 
 ---
 
-## ✅ Conclusion
+## Conclusion
 
 This project helped in understanding the importance of digital literacy and responsible online behavior in academic and professional environments.
