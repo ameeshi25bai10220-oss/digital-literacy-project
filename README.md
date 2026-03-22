@@ -49,4 +49,4 @@ Developed a case study on UPI fraud and created a prevention checklist for onlin
 
 ## Conclusion
 
-This project helped in understanding the importance of digital literacy and responsible online behavior in academic and professional environments.
+While doing this, I realized the importance of digital literacy and responsible online behavior in academic and professional environments. I especially found the Google Forms task interesting as it showed how easily data can be collected and analyzed.
