@@ -1,10 +1,10 @@
-# 🛡️ Stay Safe Online: Cybercrime Prevention Checklist
+# Stay Safe Online: Cybercrime Prevention Checklist
 
 With the increasing use of digital platforms, it is essential for college students to adopt safe online practices to protect themselves from cyber threats.
 
 ---
 
-## 🔒 General Safety Measures
+## General Safety Measures
 
 - **Never share your OTP or UPI PIN** with anyone, under any circumstances  
 - **Verify the identity of callers** claiming to be from banks, companies, or authorities  
@@ -16,7 +16,7 @@ With the increasing use of digital platforms, it is essential for college studen
 
 ---
 
-## 💰 Financial & UPI Safety Tips
+## Financial & UPI Safety Tips
 
 - **Do not scan unknown QR codes**, especially when asked to receive money  
 - **Remember: entering a UPI PIN always means money is being sent, not received**  
@@ -26,7 +26,7 @@ With the increasing use of digital platforms, it is essential for college studen
 
 ---
 
-## 🚨 In Case of Cybercrime
+## In Case of Cybercrime
 
 - Immediately report the incident on the **National Cyber Crime Portal**: https://www.cybercrime.gov.in  
 - Contact the **Cyber Crime Helpline: 1930** (available 24×7)  
@@ -34,6 +34,6 @@ With the increasing use of digital platforms, it is essential for college studen
 
 ---
 
-## 📌 Key Takeaway
+## Key Takeaway
 
 Staying safe online requires awareness, caution, and responsible behavior. By following these simple yet effective practices, students can significantly reduce their risk of becoming victims of cybercrime.
