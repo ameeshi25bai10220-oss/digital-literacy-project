@@ -1,40 +1,53 @@
 # Digital Literacy Project
 
-**Name:** Ameeshi Khare  
-**Registration Number:** 25BAI10220  
-**Branch:** AIML  
-**Course:** CSE0001 – Digital Literacy   
+## Student Details
+- **Name:** Ameeshi Khare  
+- **Registration Number:** 25BAI10220  
+- **Course Code:** CSE0001  
+- **Course Title:** Digital Literacy  
+- **Institution:** VIT Bhopal University  
 
----
+
 
 ## Project Overview
+This project focuses on understanding and applying essential digital literacy skills through a series of practical tasks. It covers areas such as digital communication, online platforms, professional presence, and cyber safety. The aim is to develop responsible and effective use of technology in both academic and real-world contexts.
 
-This project was completed as part of the Digital Literacy course. It focuses on building awareness about essential digital skills such as online safety, professional communication, and responsible use of digital platforms.
 
-The project is divided into five tasks, each covering a different aspect of digital literacy.
 
----
+## Module / Task Summaries
 
-## Tasks Summary
+### Task 1: Digital Literacy Infographic
+Created an awareness infographic using Canva to present key concepts of digital literacy, including safe internet practices and professional communication. The focus was on making information clear, simple, and visually engaging.
 
-### Task 1 – Digital Literacy Infographic
-Created an infographic explaining digital literacy, safe internet practices, and professional communication using Canva.
 
-### Task 2 – Digital Portfolio
-Set up professional profiles on platforms like GitHub and LinkedIn to build an online presence.
 
-### Task 3 – Platforms Exploration
-Completed a beginner coding challenge on HackerRank and created a Google Form quiz to promote digital awareness.
+### Task 2: Digital Portfolio
+Developed professional profiles on GitHub and LinkedIn to establish an online presence. The GitHub repository is used to organize and showcase project work, while LinkedIn highlights academic background and future goals.
 
-**Google Form Link:** https://docs.google.com/forms/d/e/1FAIpQLSfPQm46ILgDkXKBJ12aIIA5OsDpA6vJ2Y7KA7HxqKgyR8adnw/viewform?usp=publish-editor
+- 🔗 GitHub Profile: https://github.com/ameeshi25bai10220-oss
+- 🔗 LinkedIn Profile: www.linkedin.com/in/ameeshi-khare-42262037a
 
-### Task 4 – Email Etiquette
-Drafted professional emails and created a social media usage checklist.
 
-### Task 5 – Cybercrime Awareness
-Developed a case study on UPI fraud and created a prevention checklist for online safety.
 
----
+### Task 3: Platforms Exploration
+Explored coding and collaboration platforms:
+- Completed a beginner-level problem on HackerRank  
+- Created a Google Form titled *Digital Literacy Awareness Quiz* to collect responses and analyze data  
+
+- 🔗 Google Form: https://docs.google.com/forms/d/e/1FAIpQLSfPQm46ILgDkXKBJ12aIIA5OsDpA6vJ2Y7KA7HxqKgyR8adnw/viewform?usp=header
+
+
+
+
+### Task 4: Email Etiquette and Communication
+Studied the importance of professional email communication, focusing on clarity, structure, tone, and proper formatting when interacting in academic and professional settings.
+
+
+
+### Task 5: Cybercrime Awareness
+Researched common cyber threats such as UPI fraud and understood the importance of digital safety, awareness, and cautious online behavior.
+
+
 
 ## Repository Structure
 
@@ -46,8 +59,15 @@ Developed a case study on UPI fraud and created a prevention checklist for onlin
 - report/
 - README.md
 
----
+
 
 ## Conclusion
+This project helped in developing a better understanding of digital tools, online communication, and safe internet practices. It highlights the importance of being responsible and aware while using digital technologies.
 
-While doing this, I realized the importance of digital literacy and responsible online behavior in academic and professional environments. I especially found the Google Forms task interesting as it showed how easily data can be collected and analyzed.
+
+
+## References
+- Canva – https://www.canva.com  
+- HackerRank – https://www.hackerrank.com  
+- Google Forms – https://forms.google.com  
+- National Cyber Crime Portal – https://www.cybercrime.gov.in  
